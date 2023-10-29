@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dtfc2105"
+		},
+		"datalakestorage2105_service_accountKey": {
+			"value": ""
+		},
+		"datalakestorage2105_service_properties_typeProperties_url": {
+			"value": "https://datalakestorage2105.dfs.core.windows.net/"
+		}
+	}
+}
